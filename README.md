@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ###  I'm Scott, I'm a Software Developer who is currently focusing on React/Node/JS/TS and im currently looking for an exciting role!
-### Hit me up if you'd like to chat over a coffee. in-person or virtual :) ☕ 
+### Hit me up if you'd like to chat over a coffee in-person or virtually :) ☕ 
 
 <!--
 **CodeScott00/CodeScott00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
