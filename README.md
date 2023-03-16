@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-###  I'm Scott, I'm a Software Developer who is currently focusing on React/Node/JS/TS and im currently looking for an exciting role!
+###  I'm Scott, I'm a Software Developer who is currently focusing on React/Node/JS/TS and Angular. I'm currently living in Sydney, Australia!
 ### Hit me up if you'd like to chat over a coffee in-person or virtually :) ☕ 
 
 <!--
